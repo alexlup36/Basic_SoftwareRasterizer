@@ -8,3 +8,5 @@ OBJ model importer
 Constant colour rendering  
 Per vertex shading  
 Gouraud shading  
+  
+Build included in build.zip  
